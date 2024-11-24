@@ -1,12 +1,13 @@
 # Exercise Git & GitHub
 
 ## Git
-1. Launch VS Code and then open folder that you have previously built on "Exercise Bash" session
-2. Open up a new terminal from VS Code and make sure that the terminal current directory is the same as the directory that you are currently opened
-3. Initialize git in your current directory by using `git init` command
+1. Create an empty repository on GitHub and then clone the repo to your local directory
+2. Launch VS Code and open folder that you have previously cloned from GitHub
+3. Create some file(s)/folder(s) whatever you like
 4. Make sure that all of the files are already saved and then perform the following process:
    - git add
    - git commit
+   - git push
 5. Report to the instructor if finished.
    
 ## GitHub
